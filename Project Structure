@@ -1,0 +1,11 @@
+ResumeAnalyzer/
+│── backend/                  
+│   │── models/               
+│   │── services/             
+│   │── main.py               
+│   │── config.py             
+│── frontend/                 
+│── resumes/                  
+│── models/                   
+│── requirements.txt          
+│── README.md                 
